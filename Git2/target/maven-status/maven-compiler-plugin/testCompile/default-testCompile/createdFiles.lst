@@ -1,0 +1,7 @@
+pageObjects\loginpage.class
+pageFactory\loginpageFactory.class
+pageFactory\homepageFactory.class
+TestRunner8\CucumberTestRunner8ForTags.class
+StepDefinition3\LoginStepDefinition3.class
+BackgroundStepDefinition\BackgroundStepDefinitions.class
+StepDefinition3\pageFactoryLoginStepDefinition.class
